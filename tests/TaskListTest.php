@@ -9,7 +9,7 @@
     public function setUp()
     {
         $this->CI = &get_instance();
-		$this->CI->load->model('Tasks');
+	$this->CI->load->model('Tasks');
     }
 	  
     
