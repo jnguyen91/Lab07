@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+	<task id = "1">
+		<taskName>COMP4711 Assignment</task_name>
+		<priority>1</priority>
+		<size>1</size>
+		<group>2</group>
+		<deadline>20170219</deadline>
+		<status>1</status>
+		<flag></flag>
+	</task>
+
+<tasks>
+	<task id = "2">
+		<taskName>Paint the fence</task_name>
+		<priority>1</priority>
+		<size>2</size>
+		<group>1</group>
+		<deadline>20170219</deadline>
+		<status>0</status>
+		<flag></flag>
+	</task>
+<tasks>
+	<task id = "3">
+		<taskName>Intramural Hockey</taskName>
+		<priority>3</priority>
+		<size>3</size>
+		<deadline>20170219</deadline>
+		<status>1</status>
+		<flag></flag>
+	</task>
+</tasks>
