@@ -1,6 +1,6 @@
 <?php
 
-class Tasks extends CSV_Model {
+class Tasks extends XNL_Model {
 
     public function __construct() {
         parent::__construct(APPPATH . '../data/tasks.csv', 'id');
